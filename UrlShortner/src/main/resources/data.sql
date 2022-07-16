@@ -1,0 +1,1 @@
+INSERT into Users (id, user_id, name) values (1, 1, 'Anand');
